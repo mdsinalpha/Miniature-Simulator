@@ -1,0 +1,19 @@
+*** Test Bench ***
+Instructions fetched : 7 lines.
+Memory used : 8 words.
+Register 0 usage : %43.
+Register 1 usage : %31.
+Register 2 usage : %15.
+Register 3 usage : %9.
+Register 4 usage : %0.
+Register 5 usage : %0.
+Register 6 usage : %0.
+Register 7 usage : %0.
+Register 8 usage : %0.
+Register 9 usage : %0.
+Register 10 usage : %0.
+Register 11 usage : %0.
+Register 12 usage : %0.
+Register 13 usage : %0.
+Register 14 usage : %0.
+Register 15 usage : %0.

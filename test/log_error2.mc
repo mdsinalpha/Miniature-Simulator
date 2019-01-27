@@ -1,0 +1,1 @@
+# Make sure all instructions are binary. on line 1.
