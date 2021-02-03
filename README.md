@@ -1,4 +1,4 @@
-- 32-bit Miniature Processor Simulation Project
+# 32-bit Miniature Processor Simulation Project
 - University of Isfahan, Fourth Grade @ 1397
 - For Computer Organisations and Design Lesson to Dr. Mehran Rezaee
 - Contributors : Mohsen Dehbashi, Mohammad Hashemi
